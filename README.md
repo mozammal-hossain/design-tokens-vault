@@ -177,6 +177,101 @@ Sites organized by genre. Site name links to official website. Tokens and design
 | [BYJU'S](https://byjus.com) | [byjus.json](./tokens/byjus.json) | [byjus.md](./designs/byjus.md) |
 | [Duolingo](https://duolingo.com) | [duolingo.json](./tokens/duolingo.json) | [duolingo.md](./designs/duolingo.md) |
 
+### Bangladeshi Startups _(planned)_
+
+#### Ride & Mobility
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Pathao](https://pathao.com) | — | — |
+| [Shohoz](https://shohoz.com) | — | — |
+| [Obhai](https://obhai.com.bd) | — | — |
+| [Shuttle](https://shuttle.com.bd) | — | — |
+
+#### E-Commerce & Marketplace
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Daraz](https://daraz.com.bd) | — | — |
+| [PriyoShop](https://priyoshop.com) | — | — |
+| [ShopUp](https://shopup.com.bd) | — | — |
+| [Rokomari](https://rokomari.com) | — | — |
+| [Bikroy](https://bikroy.com) | — | — |
+| [Ajkerdeal](https://ajkerdeal.com) | — | — |
+| [Pickaboo](https://pickaboo.com) | — | — |
+
+#### Logistics & Delivery
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Paperfly](https://paperfly.com.bd) | — | — |
+| [RedX](https://redx.com.bd) | — | — |
+| [Steadfast](https://steadfast.com.bd) | — | — |
+| [eCourier](https://ecourier.com.bd) | — | — |
+| [Truck Lagbe](https://trucklagbe.com) | — | — |
+
+#### Grocery & Food
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Chaldal](https://chaldal.com) | — | — |
+| [Khaas Food](https://khaasfood.com) | — | — |
+| [Meena Click](https://meenaclick.com) | — | — |
+
+#### Fintech & Payments
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [bKash](https://bkash.com) | — | — |
+| [Nagad](https://nagad.com.bd) | — | — |
+| [SSLCommerz](https://sslcommerz.com) | — | — |
+| [ShurjoPay](https://shurjopay.com.bd) | — | — |
+| [SureCash](https://surecash.net) | — | — |
+| [Upay](https://upaybd.com) | — | — |
+
+#### Travel & Ticketing
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [ShareTrip](https://sharetrip.net) | — | — |
+| [GoZayaan](https://gozayaan.com) | — | — |
+| [BDtickets](https://bdtickets.com) | — | — |
+
+#### EdTech & Online Learning
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [10 Minute School](https://10minuteschool.com) | — | — |
+| [Shikho](https://shikho.com) | — | — |
+| [Bohubrihi](https://bohubrihi.com) | — | — |
+| [CodersTrust](https://coderstrust.com) | — | — |
+| [Muktopaath](https://muktopaath.gov.bd) | — | — |
+
+#### HealthTech & Pharmacy
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Arogga](https://arogga.com) | — | — |
+| [Praava Health](https://praavahealth.com) | — | — |
+| [DocTime](https://doctime.com.bd) | — | — |
+| [Maya](https://maya.com.bd) | — | — |
+
+#### AgriTech
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [iFarmer](https://ifarmer.asia) | — | — |
+| [AgroShift](https://agroshift.com) | — | — |
+
+#### Beauty & Lifestyle
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Shajgoj](https://shajgoj.com) | — | — |
+
+#### Media & Streaming
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Chorki](https://chorki.com) | — | — |
+| [Bongo](https://bongo.com.bd) | — | — |
+| [Toffee](https://toffeelive.com) | — | — |
+
+#### Jobs & HR
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [BDJOBS](https://bdjobs.com) | — | — |
+| [Kormo](https://kormo.com) | — | — |
+
 > More sites added regularly. [Request a site →](https://github.com/mozammal-hossain/design-tokens-vault/issues/new?template=site-request.md)
 
 ---
