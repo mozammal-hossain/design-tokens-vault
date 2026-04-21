@@ -111,71 +111,71 @@ Each JSON file follows the [Design Tokens Community Group (DTCG)](https://tr.des
 
 ## Covered Sites
 
-Sites organized by genre. Each entry links to its token file and design language doc.
+Sites organized by genre. Site name links to official website. Tokens and design doc link to files in this repo.
 
 ### Fintech & Payments
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Stripe](./tokens/stripe.json) | Colors, Typography, Spacing, Shadows | [stripe.md](./designs/stripe.md) |
+| [Stripe](https://stripe.com) | [stripe.json](./tokens/stripe.json) | [stripe.md](./designs/stripe.md) |
 
 ### Productivity & SaaS
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Linear](./tokens/linear.json) | Colors, Typography, Spacing, Radius | [linear.md](./designs/linear.md) |
-| [Notion](./tokens/notion.json) | Colors, Typography, Spacing | [notion.md](./designs/notion.md) |
-| [Slack](./tokens/slack.json) | Colors, Typography, Spacing | [slack.md](./designs/slack.md) |
-| [Loom](./tokens/loom.json) | Colors, Typography, Spacing | [loom.md](./designs/loom.md) |
+| [Linear](https://linear.app) | [linear.json](./tokens/linear.json) | [linear.md](./designs/linear.md) |
+| [Notion](https://notion.so) | [notion.json](./tokens/notion.json) | [notion.md](./designs/notion.md) |
+| [Slack](https://slack.com) | [slack.json](./tokens/slack.json) | [slack.md](./designs/slack.md) |
+| [Loom](https://loom.com) | [loom.json](./tokens/loom.json) | [loom.md](./designs/loom.md) |
 
 ### Developer Tools
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Vercel](./tokens/vercel.json) | Colors, Typography, Spacing, Shadows | [vercel.md](./designs/vercel.md) |
-| [GitHub](./tokens/github.json) | Colors, Typography, Spacing, Radius | [github.md](./designs/github.md) |
+| [Vercel](https://vercel.com) | [vercel.json](./tokens/vercel.json) | [vercel.md](./designs/vercel.md) |
+| [GitHub](https://github.com) | [github.json](./tokens/github.json) | [github.md](./designs/github.md) |
 
 ### Design & No-Code Tools
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Figma](./tokens/figma.json) | Colors, Typography, Spacing | [figma.md](./designs/figma.md) |
-| [Framer](./tokens/framer.json) | Colors, Typography, Spacing | [framer.md](./designs/framer.md) |
-| [Tailwind UI](./tokens/tailwindui.json) | Colors, Typography, Spacing, Radius | [tailwindui.md](./designs/tailwindui.md) |
+| [Figma](https://figma.com) | [figma.json](./tokens/figma.json) | [figma.md](./designs/figma.md) |
+| [Framer](https://framer.com) | [framer.json](./tokens/framer.json) | [framer.md](./designs/framer.md) |
+| [Tailwind UI](https://tailwindui.com) | [tailwindui.json](./tokens/tailwindui.json) | [tailwindui.md](./designs/tailwindui.md) |
 
 ### E-Commerce & Marketplace
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Shopify](./tokens/shopify.json) | Colors, Typography, Spacing | [shopify.md](./designs/shopify.md) |
-| [Airbnb](./tokens/airbnb.json) | Colors, Typography, Spacing | [airbnb.md](./designs/airbnb.md) |
-| [Uber](./tokens/uber.json) | Colors, Typography, Spacing | [uber.md](./designs/uber.md) |
+| [Shopify](https://shopify.com) | [shopify.json](./tokens/shopify.json) | [shopify.md](./designs/shopify.md) |
+| [Airbnb](https://airbnb.com) | [airbnb.json](./tokens/airbnb.json) | [airbnb.md](./designs/airbnb.md) |
+| [Uber](https://uber.com) | [uber.json](./tokens/uber.json) | [uber.md](./designs/uber.md) |
 
 ### Entertainment & Media
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Spotify](./tokens/spotify.json) | Colors, Typography, Spacing | [spotify.md](./designs/spotify.md) |
-| [Netflix](./tokens/netflix.json) | Colors, Typography, Spacing | [netflix.md](./designs/netflix.md) |
+| [Spotify](https://spotify.com) | [spotify.json](./tokens/spotify.json) | [spotify.md](./designs/spotify.md) |
+| [Netflix](https://netflix.com) | [netflix.json](./tokens/netflix.json) | [netflix.md](./designs/netflix.md) |
 
 ### Communication & Social
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Discord](./tokens/discord.json) | Colors, Typography, Spacing, Radius | [discord.md](./designs/discord.md) |
-| [Meta](./tokens/meta.json) | Colors, Typography, Spacing | [meta.md](./designs/meta.md) |
-| [X / Twitter](./tokens/twitter.json) | Colors, Typography, Spacing | [twitter.md](./designs/twitter.md) |
+| [Discord](https://discord.com) | [discord.json](./tokens/discord.json) | [discord.md](./designs/discord.md) |
+| [Meta](https://meta.com) | [meta.json](./tokens/meta.json) | [meta.md](./designs/meta.md) |
+| [X / Twitter](https://x.com) | [twitter.json](./tokens/twitter.json) | [twitter.md](./designs/twitter.md) |
 
 ### Consumer Tech
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Apple](./tokens/apple.json) | Colors, Typography, Spacing, Radius | [apple.md](./designs/apple.md) |
-| [Google](./tokens/google.json) | Colors, Typography, Spacing | [google.md](./designs/google.md) |
+| [Apple](https://apple.com) | [apple.json](./tokens/apple.json) | [apple.md](./designs/apple.md) |
+| [Google](https://google.com) | [google.json](./tokens/google.json) | [google.md](./designs/google.md) |
 
 ### EdTech & Online Learning
 | Site | Tokens | Design Doc |
 |------|--------|------------|
-| [Coursera](./tokens/coursera.json) | Colors, Typography, Spacing | [coursera.md](./designs/coursera.md) |
-| [edX](./tokens/edx.json) | Colors, Typography, Spacing | [edx.md](./designs/edx.md) |
-| [Udacity](./tokens/udacity.json) | Colors, Typography, Spacing | [udacity.md](./designs/udacity.md) |
-| [Khan Academy](./tokens/khanacademy.json) | Colors, Typography, Spacing | [khanacademy.md](./designs/khanacademy.md) |
-| [Unacademy](./tokens/unacademy.json) | Colors, Typography, Spacing | [unacademy.md](./designs/unacademy.md) |
-| [Udemy](./tokens/udemy.json) | Colors, Typography, Spacing | [udemy.md](./designs/udemy.md) |
-| [BYJU'S](./tokens/byjus.json) | Colors, Typography, Spacing | [byjus.md](./designs/byjus.md) |
-| [Duolingo](./tokens/duolingo.json) | Colors, Typography, Spacing | [duolingo.md](./designs/duolingo.md) |
+| [Coursera](https://coursera.org) | [coursera.json](./tokens/coursera.json) | [coursera.md](./designs/coursera.md) |
+| [edX](https://edx.org) | [edx.json](./tokens/edx.json) | [edx.md](./designs/edx.md) |
+| [Udacity](https://udacity.com) | [udacity.json](./tokens/udacity.json) | [udacity.md](./designs/udacity.md) |
+| [Khan Academy](https://khanacademy.org) | [khanacademy.json](./tokens/khanacademy.json) | [khanacademy.md](./designs/khanacademy.md) |
+| [Unacademy](https://unacademy.com) | [unacademy.json](./tokens/unacademy.json) | [unacademy.md](./designs/unacademy.md) |
+| [Udemy](https://udemy.com) | [udemy.json](./tokens/udemy.json) | [udemy.md](./designs/udemy.md) |
+| [BYJU'S](https://byjus.com) | [byjus.json](./tokens/byjus.json) | [byjus.md](./designs/byjus.md) |
+| [Duolingo](https://duolingo.com) | [duolingo.json](./tokens/duolingo.json) | [duolingo.md](./designs/duolingo.md) |
 
 > More sites added regularly. [Request a site →](https://github.com/mozammal-hossain/design-tokens-vault/issues/new?template=site-request.md)
 
