@@ -3,7 +3,7 @@
 > A free, open-source collection of JSON design tokens **and human-readable design language documentation** extracted from popular websites and apps. Use them to build clones, prototypes, design systems, or feed AI tools with precise UI context.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tokens](https://img.shields.io/badge/sites-20-green.svg)](#covered-sites)
+[![Tokens](https://img.shields.io/badge/sites-28-green.svg)](#covered-sites)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
@@ -111,28 +111,71 @@ Each JSON file follows the [Design Tokens Community Group (DTCG)](https://tr.des
 
 ## Covered Sites
 
-| Site | Category | Tokens | Design Doc |
-|------|----------|--------|------------|
-| [Stripe](./tokens/stripe.json) | Fintech / Payments | Colors, Typography, Spacing, Shadows | [stripe.md](./designs/stripe.md) |
-| [Linear](./tokens/linear.json) | Productivity / SaaS | Colors, Typography, Spacing, Radius | [linear.md](./designs/linear.md) |
-| [Notion](./tokens/notion.json) | Productivity | Colors, Typography, Spacing | [notion.md](./designs/notion.md) |
-| [Vercel](./tokens/vercel.json) | Developer Tools | Colors, Typography, Spacing, Shadows | [vercel.md](./designs/vercel.md) |
-| [GitHub](./tokens/github.json) | Developer Tools | Colors, Typography, Spacing, Radius | [github.md](./designs/github.md) |
-| [Airbnb](./tokens/airbnb.json) | Marketplace | Colors, Typography, Spacing | [airbnb.md](./designs/airbnb.md) |
-| [Spotify](./tokens/spotify.json) | Music / Entertainment | Colors, Typography, Spacing | [spotify.md](./designs/spotify.md) |
-| [Discord](./tokens/discord.json) | Communication | Colors, Typography, Spacing, Radius | [discord.md](./designs/discord.md) |
-| [Slack](./tokens/slack.json) | Communication / SaaS | Colors, Typography, Spacing | [slack.md](./designs/slack.md) |
-| [Figma](./tokens/figma.json) | Design Tools | Colors, Typography, Spacing | [figma.md](./designs/figma.md) |
-| [Tailwind UI](./tokens/tailwindui.json) | UI Framework | Colors, Typography, Spacing, Radius | [tailwindui.md](./designs/tailwindui.md) |
-| [Shopify](./tokens/shopify.json) | E-Commerce | Colors, Typography, Spacing | [shopify.md](./designs/shopify.md) |
-| [Netflix](./tokens/netflix.json) | Streaming / Entertainment | Colors, Typography, Spacing | [netflix.md](./designs/netflix.md) |
-| [Apple](./tokens/apple.json) | Consumer Tech | Colors, Typography, Spacing, Radius | [apple.md](./designs/apple.md) |
-| [Google](./tokens/google.json) | Search / Productivity | Colors, Typography, Spacing | [google.md](./designs/google.md) |
-| [Meta](./tokens/meta.json) | Social Media | Colors, Typography, Spacing | [meta.md](./designs/meta.md) |
-| [X / Twitter](./tokens/twitter.json) | Social Media | Colors, Typography, Spacing | [twitter.md](./designs/twitter.md) |
-| [Uber](./tokens/uber.json) | Mobility / Marketplace | Colors, Typography, Spacing | [uber.md](./designs/uber.md) |
-| [Loom](./tokens/loom.json) | Video / SaaS | Colors, Typography, Spacing | [loom.md](./designs/loom.md) |
-| [Framer](./tokens/framer.json) | Design Tools / No-Code | Colors, Typography, Spacing | [framer.md](./designs/framer.md) |
+Sites organized by genre. Each entry links to its token file and design language doc.
+
+### Fintech & Payments
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Stripe](./tokens/stripe.json) | Colors, Typography, Spacing, Shadows | [stripe.md](./designs/stripe.md) |
+
+### Productivity & SaaS
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Linear](./tokens/linear.json) | Colors, Typography, Spacing, Radius | [linear.md](./designs/linear.md) |
+| [Notion](./tokens/notion.json) | Colors, Typography, Spacing | [notion.md](./designs/notion.md) |
+| [Slack](./tokens/slack.json) | Colors, Typography, Spacing | [slack.md](./designs/slack.md) |
+| [Loom](./tokens/loom.json) | Colors, Typography, Spacing | [loom.md](./designs/loom.md) |
+
+### Developer Tools
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Vercel](./tokens/vercel.json) | Colors, Typography, Spacing, Shadows | [vercel.md](./designs/vercel.md) |
+| [GitHub](./tokens/github.json) | Colors, Typography, Spacing, Radius | [github.md](./designs/github.md) |
+
+### Design & No-Code Tools
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Figma](./tokens/figma.json) | Colors, Typography, Spacing | [figma.md](./designs/figma.md) |
+| [Framer](./tokens/framer.json) | Colors, Typography, Spacing | [framer.md](./designs/framer.md) |
+| [Tailwind UI](./tokens/tailwindui.json) | Colors, Typography, Spacing, Radius | [tailwindui.md](./designs/tailwindui.md) |
+
+### E-Commerce & Marketplace
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Shopify](./tokens/shopify.json) | Colors, Typography, Spacing | [shopify.md](./designs/shopify.md) |
+| [Airbnb](./tokens/airbnb.json) | Colors, Typography, Spacing | [airbnb.md](./designs/airbnb.md) |
+| [Uber](./tokens/uber.json) | Colors, Typography, Spacing | [uber.md](./designs/uber.md) |
+
+### Entertainment & Media
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Spotify](./tokens/spotify.json) | Colors, Typography, Spacing | [spotify.md](./designs/spotify.md) |
+| [Netflix](./tokens/netflix.json) | Colors, Typography, Spacing | [netflix.md](./designs/netflix.md) |
+
+### Communication & Social
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Discord](./tokens/discord.json) | Colors, Typography, Spacing, Radius | [discord.md](./designs/discord.md) |
+| [Meta](./tokens/meta.json) | Colors, Typography, Spacing | [meta.md](./designs/meta.md) |
+| [X / Twitter](./tokens/twitter.json) | Colors, Typography, Spacing | [twitter.md](./designs/twitter.md) |
+
+### Consumer Tech
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Apple](./tokens/apple.json) | Colors, Typography, Spacing, Radius | [apple.md](./designs/apple.md) |
+| [Google](./tokens/google.json) | Colors, Typography, Spacing | [google.md](./designs/google.md) |
+
+### EdTech & Online Learning
+| Site | Tokens | Design Doc |
+|------|--------|------------|
+| [Coursera](./tokens/coursera.json) | Colors, Typography, Spacing | [coursera.md](./designs/coursera.md) |
+| [edX](./tokens/edx.json) | Colors, Typography, Spacing | [edx.md](./designs/edx.md) |
+| [Udacity](./tokens/udacity.json) | Colors, Typography, Spacing | [udacity.md](./designs/udacity.md) |
+| [Khan Academy](./tokens/khanacademy.json) | Colors, Typography, Spacing | [khanacademy.md](./designs/khanacademy.md) |
+| [Unacademy](./tokens/unacademy.json) | Colors, Typography, Spacing | [unacademy.md](./designs/unacademy.md) |
+| [Udemy](./tokens/udemy.json) | Colors, Typography, Spacing | [udemy.md](./designs/udemy.md) |
+| [BYJU'S](./tokens/byjus.json) | Colors, Typography, Spacing | [byjus.md](./designs/byjus.md) |
+| [Duolingo](./tokens/duolingo.json) | Colors, Typography, Spacing | [duolingo.md](./designs/duolingo.md) |
 
 > More sites added regularly. [Request a site →](https://github.com/mozammal-hossain/design-tokens-vault/issues/new?template=site-request.md)
 
