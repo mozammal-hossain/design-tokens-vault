@@ -1,0 +1,67 @@
+{
+  "color": {
+    "brand": { "value": "#02B3E4", "type": "color" },
+    "brand-dark": { "value": "#0189B0", "type": "color" },
+    "brand-light": { "value": "#E0F7FD", "type": "color" },
+    "accent": { "value": "#FF5555", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-secondary": { "value": "#F4F4F4", "type": "color" },
+    "background-dark": { "value": "#1A1A2E", "type": "color" },
+    "background-dark-secondary": { "value": "#16213E", "type": "color" },
+    "text-primary": { "value": "#1A1A2E", "type": "color" },
+    "text-secondary": { "value": "#5C5C6E", "type": "color" },
+    "text-on-dark": { "value": "#FFFFFF", "type": "color" },
+    "border": { "value": "#E0E0E0", "type": "color" },
+    "success": { "value": "#00A651", "type": "color" },
+    "warning": { "value": "#FFC107", "type": "color" },
+    "error": { "value": "#FF5555", "type": "color" }
+  },
+  "typography": {
+    "font-family": { "value": "\"Montserrat\", \"Open Sans\", system-ui, sans-serif", "type": "fontFamily" },
+    "font-size-xs": { "value": "12px", "type": "dimension" },
+    "font-size-sm": { "value": "14px", "type": "dimension" },
+    "font-size-base": { "value": "16px", "type": "dimension" },
+    "font-size-md": { "value": "18px", "type": "dimension" },
+    "font-size-lg": { "value": "24px", "type": "dimension" },
+    "font-size-xl": { "value": "36px", "type": "dimension" },
+    "font-size-2xl": { "value": "48px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-semibold": { "value": "600", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "font-weight-extrabold": { "value": "800", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.2", "type": "number" },
+    "line-height-base": { "value": "1.6", "type": "number" },
+    "letter-spacing-wide": { "value": "0.05em", "type": "dimension" }
+  },
+  "spacing": {
+    "xs": { "value": "8px", "type": "dimension" },
+    "sm": { "value": "16px", "type": "dimension" },
+    "md": { "value": "24px", "type": "dimension" },
+    "lg": { "value": "32px", "type": "dimension" },
+    "xl": { "value": "48px", "type": "dimension" },
+    "2xl": { "value": "64px", "type": "dimension" },
+    "3xl": { "value": "96px", "type": "dimension" }
+  },
+  "border-radius": {
+    "sm": { "value": "4px", "type": "dimension" },
+    "md": { "value": "8px", "type": "dimension" },
+    "lg": { "value": "16px", "type": "dimension" },
+    "pill": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "card": { "value": "0 2px 8px rgba(0,0,0,0.10)", "type": "shadow" },
+    "card-hover": { "value": "0 6px 20px rgba(0,0,0,0.18)", "type": "shadow" },
+    "modal": { "value": "0 12px 40px rgba(0,0,0,0.28)", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "dropdown": { "value": "100", "type": "number" },
+    "modal": { "value": "300", "type": "number" }
+  },
+  "motion": {
+    "duration-fast": { "value": "150ms", "type": "duration" },
+    "duration-base": { "value": "300ms", "type": "duration" },
+    "easing-standard": { "value": "cubic-bezier(0.4, 0, 0.2, 1)", "type": "cubicBezier" }
+  }
+}
