@@ -1,0 +1,70 @@
+{
+  "color": {
+    "brand": { "value": "#000000", "type": "color" },
+    "brand-blue": { "value": "#1D9BF0", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-dark": { "value": "#000000", "type": "color" },
+    "background-dim": { "value": "#15202B", "type": "color" },
+    "surface": { "value": "#F7F9F9", "type": "color" },
+    "surface-dark": { "value": "#16181C", "type": "color" },
+    "surface-hover": { "value": "rgba(0,0,0,0.03)", "type": "color" },
+    "surface-hover-dark": { "value": "rgba(255,255,255,0.03)", "type": "color" },
+    "text-primary": { "value": "#0F1419", "type": "color" },
+    "text-primary-dark": { "value": "#E7E9EA", "type": "color" },
+    "text-secondary": { "value": "#536471", "type": "color" },
+    "text-secondary-dark": { "value": "#71767B", "type": "color" },
+    "text-link": { "value": "#1D9BF0", "type": "color" },
+    "border": { "value": "#EFF3F4", "type": "color" },
+    "border-dark": { "value": "#2F3336", "type": "color" },
+    "verified-gold": { "value": "#FFD400", "type": "color" },
+    "like": { "value": "#F91880", "type": "color" },
+    "repost": { "value": "#00BA7C", "type": "color" },
+    "error": { "value": "#F4212E", "type": "color" },
+    "warning": { "value": "#FFD400", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif", "type": "fontFamily" },
+    "font-size-xs": { "value": "12px", "type": "dimension" },
+    "font-size-sm": { "value": "13px", "type": "dimension" },
+    "font-size-base": { "value": "15px", "type": "dimension" },
+    "font-size-lg": { "value": "17px", "type": "dimension" },
+    "font-size-xl": { "value": "20px", "type": "dimension" },
+    "font-size-2xl": { "value": "23px", "type": "dimension" },
+    "font-size-3xl": { "value": "28px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "font-weight-extrabold": { "value": "800", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.25", "type": "number" },
+    "line-height-normal": { "value": "1.3125", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" }
+  },
+  "border-radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "4px", "type": "dimension" },
+    "md": { "value": "12px", "type": "dimension" },
+    "lg": { "value": "16px", "type": "dimension" },
+    "card": { "value": "16px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "rgba(101,119,134,0.2) 0px 0px 15px, rgba(101,119,134,0.15) 0px 0px 3px 1px", "type": "shadow" },
+    "md": { "value": "rgba(101,119,134,0.2) 0px 0px 30px, rgba(101,119,134,0.15) 0px 0px 5px 2px", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "sidebar": { "value": "3", "type": "number" },
+    "header": { "value": "4", "type": "number" },
+    "modal-backdrop": { "value": "400", "type": "number" },
+    "modal": { "value": "500", "type": "number" }
+  }
+}

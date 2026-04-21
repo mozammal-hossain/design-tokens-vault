@@ -1,0 +1,82 @@
+{
+  "color": {
+    "brand": { "value": "#5865F2", "type": "color" },
+    "brand-hover": { "value": "#4752C4", "type": "color" },
+    "brand-active": { "value": "#3C45A5", "type": "color" },
+    "background-primary": { "value": "#313338", "type": "color" },
+    "background-secondary": { "value": "#2B2D31", "type": "color" },
+    "background-tertiary": { "value": "#1E1F22", "type": "color" },
+    "background-accent": { "value": "#4E5058", "type": "color" },
+    "background-floating": { "value": "#111214", "type": "color" },
+    "surface": { "value": "#383A40", "type": "color" },
+    "text-normal": { "value": "#DBDEE1", "type": "color" },
+    "text-muted": { "value": "#80848E", "type": "color" },
+    "text-link": { "value": "#00A8FC", "type": "color" },
+    "text-positive": { "value": "#23A55A", "type": "color" },
+    "text-warning": { "value": "#F0B132", "type": "color" },
+    "text-danger": { "value": "#F23F43", "type": "color" },
+    "interactive-normal": { "value": "#B5BAC1", "type": "color" },
+    "interactive-hover": { "value": "#DBDEE1", "type": "color" },
+    "interactive-active": { "value": "#FFFFFF", "type": "color" },
+    "interactive-muted": { "value": "#4E5058", "type": "color" },
+    "border": { "value": "#1E1F22", "type": "color" },
+    "success": { "value": "#23A55A", "type": "color" },
+    "warning": { "value": "#F0B132", "type": "color" },
+    "danger": { "value": "#DA373C", "type": "color" },
+    "status-online": { "value": "#23A55A", "type": "color" },
+    "status-idle": { "value": "#F0B132", "type": "color" },
+    "status-dnd": { "value": "#F23F43", "type": "color" },
+    "status-offline": { "value": "#80848E", "type": "color" },
+    "nitro": { "value": "#FF73FA", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "\"gg sans\", \"Noto Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", "type": "fontFamily" },
+    "font-family-mono": { "value": "\"Consolas\", \"Andale Mono WT\", \"Andale Mono\", monospace", "type": "fontFamily" },
+    "font-size-xs": { "value": "10px", "type": "dimension" },
+    "font-size-sm": { "value": "12px", "type": "dimension" },
+    "font-size-base": { "value": "16px", "type": "dimension" },
+    "font-size-lg": { "value": "18px", "type": "dimension" },
+    "font-size-xl": { "value": "20px", "type": "dimension" },
+    "font-size-2xl": { "value": "24px", "type": "dimension" },
+    "font-size-3xl": { "value": "32px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-semibold": { "value": "600", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.2", "type": "number" },
+    "line-height-normal": { "value": "1.375", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" }
+  },
+  "border-radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "3px", "type": "dimension" },
+    "md": { "value": "4px", "type": "dimension" },
+    "lg": { "value": "8px", "type": "dimension" },
+    "avatar-sm": { "value": "50%", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "0 1px 0 rgba(4,4,5,0.2)", "type": "shadow" },
+    "md": { "value": "0 4px 4px rgba(0,0,0,0.16)", "type": "shadow" },
+    "lg": { "value": "0 8px 16px rgba(0,0,0,0.24)", "type": "shadow" },
+    "float": { "value": "0 1px 6px rgba(0,0,0,0.28), 0 2px 20px rgba(0,0,0,0.2)", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "above-message": { "value": "1", "type": "number" },
+    "sidebar": { "value": "100", "type": "number" },
+    "dropdown": { "value": "200", "type": "number" },
+    "modal": { "value": "1000", "type": "number" },
+    "popout": { "value": "1001", "type": "number" }
+  }
+}

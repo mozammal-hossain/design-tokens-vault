@@ -1,0 +1,76 @@
+{
+  "color": {
+    "brand": { "value": "#0ACF83", "type": "color" },
+    "brand-secondary": { "value": "#1ABCFE", "type": "color" },
+    "brand-tertiary": { "value": "#FF7262", "type": "color" },
+    "brand-quaternary": { "value": "#A259FF", "type": "color" },
+    "brand-quinary": { "value": "#F24E1E", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-dark": { "value": "#1E1E1E", "type": "color" },
+    "surface": { "value": "#F5F5F5", "type": "color" },
+    "surface-dark": { "value": "#2C2C2C", "type": "color" },
+    "toolbar-bg": { "value": "#2C2C2C", "type": "color" },
+    "panel-bg": { "value": "#2C2C2C", "type": "color" },
+    "canvas": { "value": "#F5F5F5", "type": "color" },
+    "selection": { "value": "#18A0FB", "type": "color" },
+    "text-primary": { "value": "#000000", "type": "color" },
+    "text-primary-dark": { "value": "#FFFFFF", "type": "color" },
+    "text-secondary": { "value": "#666666", "type": "color" },
+    "text-secondary-dark": { "value": "#B3B3B3", "type": "color" },
+    "border": { "value": "#E5E5E5", "type": "color" },
+    "border-dark": { "value": "#3D3D3D", "type": "color" },
+    "success": { "value": "#0ACF83", "type": "color" },
+    "error": { "value": "#F24E1E", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "\"Inter\", -apple-system, BlinkMacSystemFont, sans-serif", "type": "fontFamily" },
+    "font-family-mono": { "value": "\"Roboto Mono\", Menlo, monospace", "type": "fontFamily" },
+    "font-size-xs": { "value": "11px", "type": "dimension" },
+    "font-size-sm": { "value": "12px", "type": "dimension" },
+    "font-size-base": { "value": "14px", "type": "dimension" },
+    "font-size-lg": { "value": "16px", "type": "dimension" },
+    "font-size-xl": { "value": "18px", "type": "dimension" },
+    "font-size-2xl": { "value": "24px", "type": "dimension" },
+    "font-size-3xl": { "value": "32px", "type": "dimension" },
+    "font-size-4xl": { "value": "48px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-semibold": { "value": "600", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.2", "type": "number" },
+    "line-height-normal": { "value": "1.5", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" }
+  },
+  "border-radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "2px", "type": "dimension" },
+    "md": { "value": "4px", "type": "dimension" },
+    "lg": { "value": "6px", "type": "dimension" },
+    "xl": { "value": "8px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "0 1px 3px rgba(0,0,0,0.1)", "type": "shadow" },
+    "md": { "value": "0 2px 8px rgba(0,0,0,0.15)", "type": "shadow" },
+    "lg": { "value": "0 4px 16px rgba(0,0,0,0.2)", "type": "shadow" },
+    "selection": { "value": "0 0 0 1px #18A0FB", "type": "shadow" }
+  },
+  "z-index": {
+    "canvas": { "value": "0", "type": "number" },
+    "overlay": { "value": "100", "type": "number" },
+    "panel": { "value": "200", "type": "number" },
+    "toolbar": { "value": "300", "type": "number" },
+    "modal": { "value": "500", "type": "number" },
+    "toast": { "value": "600", "type": "number" }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "color": {
+    "brand": { "value": "#0866FF", "type": "color" },
+    "brand-hover": { "value": "#0550C5", "type": "color" },
+    "brand-press": { "value": "#044FB5", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-dark": { "value": "#18191A", "type": "color" },
+    "surface": { "value": "#F0F2F5", "type": "color" },
+    "surface-dark": { "value": "#242526", "type": "color" },
+    "surface-hover": { "value": "#E4E6EB", "type": "color" },
+    "surface-hover-dark": { "value": "#3A3B3C", "type": "color" },
+    "text-primary": { "value": "#050505", "type": "color" },
+    "text-primary-dark": { "value": "#E4E6EB", "type": "color" },
+    "text-secondary": { "value": "#65676B", "type": "color" },
+    "text-secondary-dark": { "value": "#B0B3B8", "type": "color" },
+    "text-disabled": { "value": "#BCC0C4", "type": "color" },
+    "text-link": { "value": "#0866FF", "type": "color" },
+    "border": { "value": "#CED0D4", "type": "color" },
+    "border-dark": { "value": "#393A3B", "type": "color" },
+    "messenger": { "value": "#0084FF", "type": "color" },
+    "instagram": { "value": "#E1306C", "type": "color" },
+    "whatsapp": { "value": "#25D366", "type": "color" },
+    "threads": { "value": "#000000", "type": "color" },
+    "success": { "value": "#31A24C", "type": "color" },
+    "warning": { "value": "#F02849", "type": "color" },
+    "error": { "value": "#F02849", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "\"Optimistic Display\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", "type": "fontFamily" },
+    "font-family-ui": { "value": "\"Optimistic Text\", Helvetica, Arial, sans-serif", "type": "fontFamily" },
+    "font-size-xs": { "value": "12px", "type": "dimension" },
+    "font-size-sm": { "value": "13px", "type": "dimension" },
+    "font-size-base": { "value": "15px", "type": "dimension" },
+    "font-size-lg": { "value": "17px", "type": "dimension" },
+    "font-size-xl": { "value": "20px", "type": "dimension" },
+    "font-size-2xl": { "value": "24px", "type": "dimension" },
+    "font-size-3xl": { "value": "28px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "line-height-normal": { "value": "1.3333", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" }
+  },
+  "border-radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "4px", "type": "dimension" },
+    "md": { "value": "8px", "type": "dimension" },
+    "lg": { "value": "12px", "type": "dimension" },
+    "card": { "value": "8px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "0 1px 2px rgba(0,0,0,0.1)", "type": "shadow" },
+    "md": { "value": "0 2px 8px rgba(0,0,0,0.1)", "type": "shadow" },
+    "lg": { "value": "rgba(0,0,0,0.1) 0px 0px 0px 1px, rgba(0,0,0,0.1) 0px 4px 16px", "type": "shadow" },
+    "card": { "value": "0 2px 12px rgba(0,0,0,0.12)", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "sidebar": { "value": "100", "type": "number" },
+    "header": { "value": "200", "type": "number" },
+    "dropdown": { "value": "300", "type": "number" },
+    "modal": { "value": "600", "type": "number" },
+    "toast": { "value": "700", "type": "number" }
+  }
+}

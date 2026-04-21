@@ -1,0 +1,80 @@
+{
+  "color": {
+    "brand": { "value": "#008060", "type": "color" },
+    "brand-hover": { "value": "#006E52", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-secondary": { "value": "#F1F1F1", "type": "color" },
+    "surface": { "value": "#FAFAFA", "type": "color" },
+    "surface-selected": { "value": "#EBF9F5", "type": "color" },
+    "text-primary": { "value": "#202223", "type": "color" },
+    "text-secondary": { "value": "#6D7175", "type": "color" },
+    "text-disabled": { "value": "#8C9196", "type": "color" },
+    "text-inverse": { "value": "#FFFFFF", "type": "color" },
+    "border": { "value": "#C9CCCF", "type": "color" },
+    "border-subdued": { "value": "#E4E5E7", "type": "color" },
+    "border-highlight": { "value": "#449DA7", "type": "color" },
+    "interactive": { "value": "#0070F0", "type": "color" },
+    "interactive-hover": { "value": "#005BD3", "type": "color" },
+    "success": { "value": "#008060", "type": "color" },
+    "success-bg": { "value": "#AEE9D1", "type": "color" },
+    "warning": { "value": "#B98900", "type": "color" },
+    "warning-bg": { "value": "#FFEA8A", "type": "color" },
+    "critical": { "value": "#D72C0D", "type": "color" },
+    "critical-bg": { "value": "#FED3D1", "type": "color" },
+    "info": { "value": "#0070F0", "type": "color" },
+    "info-bg": { "value": "#D5E8FF", "type": "color" },
+    "highlight": { "value": "#1890FF", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "\"Inter\", -apple-system, BlinkMacSystemFont, \"San Francisco\", \"Segoe UI\", sans-serif", "type": "fontFamily" },
+    "font-family-mono": { "value": "\"SFMono-Regular\", Consolas, \"Liberation Mono\", Menlo, monospace", "type": "fontFamily" },
+    "font-size-xs": { "value": "12px", "type": "dimension" },
+    "font-size-sm": { "value": "14px", "type": "dimension" },
+    "font-size-base": { "value": "14px", "type": "dimension" },
+    "font-size-lg": { "value": "16px", "type": "dimension" },
+    "font-size-xl": { "value": "20px", "type": "dimension" },
+    "font-size-2xl": { "value": "24px", "type": "dimension" },
+    "font-size-3xl": { "value": "28px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-semibold": { "value": "600", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.25", "type": "number" },
+    "line-height-normal": { "value": "1.5", "type": "number" },
+    "line-height-relaxed": { "value": "1.75", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" },
+    "16": { "value": "64px", "type": "dimension" }
+  },
+  "border-radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "4px", "type": "dimension" },
+    "md": { "value": "8px", "type": "dimension" },
+    "lg": { "value": "12px", "type": "dimension" },
+    "xl": { "value": "20px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "0 1px 0 rgba(0,0,0,0.05)", "type": "shadow" },
+    "md": { "value": "0 2px 4px rgba(0,0,0,0.1)", "type": "shadow" },
+    "lg": { "value": "0 8px 16px rgba(0,0,0,0.15)", "type": "shadow" },
+    "card": { "value": "0 0 0 1px rgba(63,63,68,0.05), 0 1px 3px 0 rgba(63,63,68,0.15)", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "raised": { "value": "1", "type": "number" },
+    "dropdown": { "value": "200", "type": "number" },
+    "sticky": { "value": "300", "type": "number" },
+    "modal": { "value": "500", "type": "number" },
+    "toast": { "value": "600", "type": "number" }
+  }
+}

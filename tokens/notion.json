@@ -1,0 +1,79 @@
+{
+  "color": {
+    "brand": { "value": "#2EAADC", "type": "color" },
+    "background": { "value": "#FFFFFF", "type": "color" },
+    "background-dark": { "value": "#191919", "type": "color" },
+    "surface": { "value": "#F7F6F3", "type": "color" },
+    "surface-dark": { "value": "#2F2F2F", "type": "color" },
+    "text-primary": { "value": "#37352F", "type": "color" },
+    "text-primary-dark": { "value": "#FFFFFFCF", "type": "color" },
+    "text-secondary": { "value": "#787774", "type": "color" },
+    "text-disabled": { "value": "#BFBFBF", "type": "color" },
+    "border": { "value": "#E9E9E7", "type": "color" },
+    "border-dark": { "value": "#424242", "type": "color" },
+    "highlight-default": { "value": "#F1F1EF", "type": "color" },
+    "highlight-gray": { "value": "#F1F1EF", "type": "color" },
+    "highlight-brown": { "value": "#F4EEEE", "type": "color" },
+    "highlight-orange": { "value": "#FAEBDD", "type": "color" },
+    "highlight-yellow": { "value": "#FBF3DB", "type": "color" },
+    "highlight-green": { "value": "#DDEDEA", "type": "color" },
+    "highlight-blue": { "value": "#DDEBF1", "type": "color" },
+    "highlight-purple": { "value": "#EAE4F2", "type": "color" },
+    "highlight-pink": { "value": "#F4DFEB", "type": "color" },
+    "highlight-red": { "value": "#FBE4E4", "type": "color" }
+  },
+  "typography": {
+    "font-family-base": { "value": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif", "type": "fontFamily" },
+    "font-family-serif": { "value": "\"Georgia\", \"Times New Roman\", serif", "type": "fontFamily" },
+    "font-family-mono": { "value": "\"SFMono-Regular\", Menlo, Consolas, monospace", "type": "fontFamily" },
+    "font-size-xs": { "value": "12px", "type": "dimension" },
+    "font-size-sm": { "value": "14px", "type": "dimension" },
+    "font-size-base": { "value": "16px", "type": "dimension" },
+    "font-size-lg": { "value": "18px", "type": "dimension" },
+    "font-size-xl": { "value": "20px", "type": "dimension" },
+    "font-size-2xl": { "value": "24px", "type": "dimension" },
+    "font-size-3xl": { "value": "30px", "type": "dimension" },
+    "font-size-heading-1": { "value": "40px", "type": "dimension" },
+    "font-size-heading-2": { "value": "30px", "type": "dimension" },
+    "font-size-heading-3": { "value": "24px", "type": "dimension" },
+    "font-weight-regular": { "value": "400", "type": "fontWeight" },
+    "font-weight-medium": { "value": "500", "type": "fontWeight" },
+    "font-weight-semibold": { "value": "600", "type": "fontWeight" },
+    "font-weight-bold": { "value": "700", "type": "fontWeight" },
+    "line-height-tight": { "value": "1.25", "type": "number" },
+    "line-height-normal": { "value": "1.5", "type": "number" },
+    "line-height-relaxed": { "value": "1.75", "type": "number" }
+  },
+  "spacing": {
+    "1": { "value": "4px", "type": "dimension" },
+    "2": { "value": "8px", "type": "dimension" },
+    "3": { "value": "12px", "type": "dimension" },
+    "4": { "value": "16px", "type": "dimension" },
+    "5": { "value": "20px", "type": "dimension" },
+    "6": { "value": "24px", "type": "dimension" },
+    "8": { "value": "32px", "type": "dimension" },
+    "10": { "value": "40px", "type": "dimension" },
+    "12": { "value": "48px", "type": "dimension" },
+    "16": { "value": "64px", "type": "dimension" }
+  },
+  "border-radius": {
+    "sm": { "value": "3px", "type": "dimension" },
+    "md": { "value": "4px", "type": "dimension" },
+    "lg": { "value": "6px", "type": "dimension" },
+    "xl": { "value": "8px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "shadow": {
+    "sm": { "value": "rgba(15,15,15,0.1) 0px 1px 2px", "type": "shadow" },
+    "md": { "value": "rgba(15,15,15,0.1) 0px 4px 8px", "type": "shadow" },
+    "lg": { "value": "rgba(15,15,15,0.15) 0px 8px 24px", "type": "shadow" },
+    "modal": { "value": "rgba(15,15,15,0.2) 0px 20px 60px", "type": "shadow" }
+  },
+  "z-index": {
+    "base": { "value": "0", "type": "number" },
+    "raised": { "value": "1", "type": "number" },
+    "dropdown": { "value": "100", "type": "number" },
+    "sticky": { "value": "200", "type": "number" },
+    "modal": { "value": "999", "type": "number" }
+  }
+}
